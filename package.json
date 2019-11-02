@@ -1,0 +1,14 @@
+{
+  "name": "@jonathanhunsucker/music-js",
+  "version": "1.0.0",
+  "description": "Classes and functions for handling music concepts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Jonathan Hunsucker",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
